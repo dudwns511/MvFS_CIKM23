@@ -1,6 +1,7 @@
 # MvFS: Multi-view Feature Selection for Recommender System
 
-The code of [MvFS: Multi-view Feature Selection for Recommender System](https://arxiv.org/abs/2309.02064), CIKM 2023
+The code of [MvFS: Multi-view Feature Selection for Recommender System](https://arxiv.org/abs/2309.02064), CIKM 2023.
+
 Our implementation is based on the [AdaFS code](https://github.com/Applied-Machine-Learning-Lab/AdaFS).
 
 
